@@ -19,7 +19,7 @@ CREATE TABLE Products
 );
 
 /*
-1-  SQL query to transform this table into 2NF by removing partial dependencies.
+2-  SQL query to transform this table into 2NF by removing partial dependencies.
  Ensure that each non-key column fully depends on the entire primary key.
 */
 
